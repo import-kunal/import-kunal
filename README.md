@@ -25,7 +25,7 @@ tech_stack = {
 ## 🎯 Achievement Highlights
 
 - 🌟 **SIH 2023 Hackathon Finalist**  
-- 🎨 Developed 38+ websites from concept to deployment
+- 🎨 Developed 28 websites from concept to deployment
 - 💼 Built 4 industry-grade web applications
 - 🌐 Led digital transformation projects across:
   - Fintech
