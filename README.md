@@ -33,12 +33,6 @@ tech_stack = {
   - Real Estate
   - Sports (Handball)
 
-## 📈 Professional Journey
-
-- 🔥 **Business Development:** Spearheading growth initiatives at BondFire Groups
-- 🛠️ **Technical Leadership:** Architecting scalable solutions with Django & MERN Stack
-- 🤝 **Industry Collaboration:** Working closely with stakeholders to solve complex business challenges
-- 🚀 **Innovation:** Driving digital transformation across various sectors
 
 ## 🌱 Currently
 
